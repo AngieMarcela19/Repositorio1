@@ -1,0 +1,8 @@
+nombre= input('cual es tu nombre:? ')
+print(nombre.strip().upper())
+print(nombre.strip().lower())
+print('=='*25)
+print('tu nombre tiene',  len(nombre)-nombre.count(' ') , 'letras sin contar espacios')
+nombre1 = nombre.split()
+print(nombre1)
+print('el primer nombre tiene' ,len(nombre1[0]),'letras')
