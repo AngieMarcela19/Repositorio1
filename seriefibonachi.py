@@ -1,7 +1,3 @@
-#calcule los primeros numeros de la serie fibonachi
-from re import A
-
-
 N= int(input('ingrese un numero: '))
 a= 0
 b=1 
