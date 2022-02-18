@@ -8,7 +8,7 @@ masa_corpo= float(input('ingrese su masa(kg):'))
 
 planeta = input('en que lugar (Luna,Tierra,Marte) quiere calcular su peso:')
 
-if planeta.:
+if planeta == str('Luna').lower():
     print('su peso en la luna es:',masa_corpo*vGL)
 if planeta == str('Tierra').lower():
     print('su peso en tierra es:', masa_corpo*vGT, "kg")
