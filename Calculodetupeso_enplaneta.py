@@ -26,8 +26,3 @@ if planeta == 'Marte':
     print('su peso en marte es:',masa_corpo*vGMart)
 
 print('ha finalizado el calculo')
-    
-    
-    
- 
-        
