@@ -1,0 +1,11 @@
+
+{
+"toni" : {"edad":34,
+    "hobbies":["natacion", "comer"]
+},
+"sofia": {"edad":43,
+    "hobbies":["hockey hielo", "beber"]
+},
+"carlos": {"edad":56,
+    "hobbies":["comer", "beber","dormir"], "es humano": false}
+}
