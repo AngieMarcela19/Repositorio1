@@ -17,11 +17,11 @@ def campo_dejusticia(mundo):
 Campo= int(input('En que campo desea entrar: ')) 
 if Campo ==1:
     print('usted ha ingresado en La cicatriz de cristal  ')
-if Campo ==2:
+elif Campo ==2:
     print('usted ha ingresado en El abismo de los lamentos')
-if Campo == 3:
+elif Campo == 3:
     print('usted ha ingresado en La grieta del invocador')
-if Campo==4:
+elif Campo==4:
     print('usted ha ingresado El bosque retrocido')
 campo_dejusticia(Campo)
 print('\n')
