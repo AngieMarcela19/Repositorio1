@@ -7,3 +7,4 @@ for hora in range(24):
             os.system('cls')
             print(f'{hora}:{min}:{segundos}')
             time.sleep(1)
+# :3
